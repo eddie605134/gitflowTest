@@ -4,3 +4,4 @@ let b = 'i change';
 let v = 'i change';
 let r = 'i change4';
 let r2 = 'i change4';
+let r3 = 'i change4';
